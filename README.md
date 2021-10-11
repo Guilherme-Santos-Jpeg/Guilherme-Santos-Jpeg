@@ -23,7 +23,15 @@
 <img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
 <img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
 <img align="Right" alt="CSS" height="175" width="175" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=g">
-                                                                                                                                    
+  
+  
+##### Experiência (Since 2014) 🗃🗄
+  
+ <img align="center" alt="Photoshop" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496742.png">
+<img align="center" alt="Illustrator" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png">
+<img align="center" alt="InDesign" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/726/726124.png">
+<img align="center" alt="Lightrom" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496752.png">
+<img align="center" alt="Premiere" height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/1146/premium/1146090.png?token=exp=1633923098~hmac=d3243693522eec0a66d03d364f1021fa">                                                                                                                                         
                                                                                                                                            
 #### REDES SOCIAIS
  
