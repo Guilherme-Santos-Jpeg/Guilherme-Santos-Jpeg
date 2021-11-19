@@ -31,7 +31,7 @@
 <img align="center" alt="Illustrator" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png">
 <img align="center" alt="InDesign" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/726/726124.png">
 <img align="center" alt="Lightrom" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496752.png">
-<img align="center" alt="Premiere" height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/1146/premium/1146090.png?token=exp=1633923098~hmac=d3243693522eec0a66d03d364f1021fa">                                                                                                                                         
+<img align="center" alt="Premiere" height="30" width="30" src="https://www.flaticon.com/free-icon/premiere_726105?term=adobe%20premiere&page=1&position=5&page=1&position=5&related_id=726105&origin=tag">                                                                                                                                         
                                                                                                                                            
 #### REDES SOCIAIS
  
