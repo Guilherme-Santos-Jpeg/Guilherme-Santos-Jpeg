@@ -9,14 +9,15 @@
 <div>
   <a href="https://github.com/Guilherme-Santos-Jpeg">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilherme-santos-jpeg&showicons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-    
-    
     </div>
   
   
-  
+<img align="Right" alt="CSS" height="175" width="175" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=g">
+    
 #### Interesses 💡 | Estudando ✏
 
+ 
+<div>
 <img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 <img align="center" alt="Typescript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
 <img align="center" alt="React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
@@ -24,7 +25,7 @@
 <img align="center" alt="ANGULAR" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">     
 <img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
 <img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-<img align="Right" alt="CSS" height="175" width="175" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=g">
+  </div>
   
   
 ##### Experiência (Since 2014) 🗃🗄
