@@ -12,29 +12,7 @@
     </div>
   
   
-<img align="Right" alt="CSS" height="175" width="175" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=g">
-    
-#### Interesses 💡 | Estudando ✏
-
- 
-<div>
-<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-<img align="center" alt="Typescript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
-<img align="center" alt="React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
-<img align="center" alt="Python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png">
-<img align="center" alt="ANGULAR" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">     
-<img align="center" alt="HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
-<img align="center" alt="CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-  </div>
-  
-  
-##### Experiência (Since 2014) 🗃🗄
-  
- <img align="center" alt="Photoshop" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496742.png">
-<img align="center" alt="Illustrator" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png">
-<img align="center" alt="InDesign" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/726/726124.png">
-<img align="center" alt="Lightrom" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2496/2496752.png">
-<img align="center" alt="Premiere" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/726/726105.png">                                                                                                                                         
+<img align="Right" alt="CSS" height="175" width="175" src="https://media4.giphy.com/media/WJbZ59I9YaAbdWCsId/giphy.gif?cid=790b761140ff70d1b1b8535ddd9fcb5ff110591953222e3b&rid=giphy.gif&ct=g"                                                                                                                                  
                                                                                                                                            
 #### REDES SOCIAIS
  
